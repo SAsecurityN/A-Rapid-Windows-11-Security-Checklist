@@ -1,5 +1,5 @@
 1. Windows Defender ("Windows Security" app) is Turned on
-    This is Windows' on AntiVirus
+    This is Windows' AntiVirus
 
 
 2. Real-Time Protection is Turned on (Windows Security -> Virus & threat protection -> Virus & threat protection settings "Manage Settings")
@@ -39,8 +39,8 @@
    
 
 9. Not storing sensitive data in plain-text or easily accessible ways:
-    It is dangerous and totally not-recommended to store your and others' sensitive data, and credentials, on your device, especially in plaintext could be easily accessed if someone gets access to your device (this includes physical access too!), or is already on your device, remember that they could get access to your device through social engineering too, then your device could become easy target as the sensitive info and credentials are already there
+   | It is dangerous and totally not-recommended to store your and others' sensitive data, and credentials, on your device, especially in plaintext could be easily accessed if someone gets access to your device (this includes physical access too!), or is already on your device, remember that they could get access to your device through social engineering too, then your device could become easy target as the sensitive info and credentials are already there
 
 
-10. PowerShell history
-    PowerShell usually stores its command history, so if anyone or you have entered credentials or some other sensitive info in PowerShell, PowerShell commands, it could be found. So I highly advise you to either clear out PowerShell history sometimes or totally disable PowerShell history
+10. PowerShell history:
+    | PowerShell usually stores its command history, so if anyone or you have entered credentials or some other sensitive info in PowerShell, PowerShell commands, it could be found. So I highly advise you to either clear out PowerShell history sometimes or totally disable PowerShell history
