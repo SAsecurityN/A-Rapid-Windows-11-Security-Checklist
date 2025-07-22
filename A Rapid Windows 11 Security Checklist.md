@@ -7,7 +7,7 @@
 
 3. Latest updates installed (non-windows apps too) | Why:
     First of all, **outdated software very often contains vulnerabilities**, which can lead to an unwanted actors gaining remote access, executing arbitrary code, escalating privileges, stealing sensitive data from your device. *Vulnerabilities could or do exist in Operating System (Windows itself), Software, 3rd-party apps, etc.* Even worse, there are some tools to find devices with outdated version of OS, Software that are exposed to the internet. SO it is crucial to always have the latest updates on all the apps, OS, etc on your device!
-    ention PrivEsc, Exploits, How hackers can discover can discover vulnerable devices using search engines
+    ention PrivEsc, Exploits, How hackers can discover vulnerable devices using search engines
 
 
 4. Using strong password | Why: 
