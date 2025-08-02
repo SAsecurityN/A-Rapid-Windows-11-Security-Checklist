@@ -20,8 +20,8 @@
     Again, this was mentioned previously, you should often update. Outdates OS versions, software, etc are very often vulnerable to numerous different vulnerabilities. 
     **==IMPORTANT NOTE==**: On Windows there's a thing called "Microsoft Recall" which I HIGHLY RECOMMEND to turn off, also I heard that it could turn on after updates, so turn it off after updates if it does! Here's how to disable it:
     - Open PowerShell as Administrator
-    - Type this (check status): Dism /Online /Get-Featureinfo /Featurename:Recall
-    - Then type this (disable if exists): Dism /Online /Disable-Feature /Featurename:Recall
+    - Type this (check status): `Dism /Online /Get-Featureinfo /Featurename:Recall`
+    - Then type this (disable if exists): `Dism /Online /Disable-Feature /Featurename:Recall`
 
 
 6. UAC turned on | Why: 
